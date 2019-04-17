@@ -3,9 +3,9 @@ This is HTML template on Flexbox using the initial OptimizedHTML template.
 
 <h2>How to use:</h2>
 <ol>
-	<li>Download template from GitHub;</li>
-	<li>Install Node Modules: <strong>npm i</strong>;</li>
-	<li>Run the template: <strong>gulp</strong>.</li>
+	<li>Download template from GitHub</li>
+	<li>Install Node Modules: <strong>npm i</strong></li>
+	<li>Run the template: <strong>gulp</strong></li>
 </ol>
 
 <h2>Template structure:</h2>
