@@ -1,0 +1,54 @@
+// Миксины
+@mixin color-button {
+	width: 163px;
+	height: 37px;
+	border-radius: 19px;
+	background-color: var(--main-color);	
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 26px;
+	text-transform: uppercase;
+	letter-spacing: 1.8px;
+	transition: all .3s ease 0s;
+}
+@mixin color-button-hover {
+	&:hover {
+		opacity: 0.5;
+	}
+}
+@mixin color-button-white {
+	border-radius: 19px;
+	background-color: #ffffff;
+	color: var(--main-color);
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 26px;
+	text-transform: uppercase;
+	padding: 6px 17px;
+	transition: all .3s ease 0s;
+}
+@mixin color-button-transparent {
+	color: var(--main-color);
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 26px;
+	text-transform: uppercase;
+	border-radius: 18px;
+	border: 1px solid var(--main-color);
+	padding: 5px 20px;
+	background-color: transparent;
+}
+@mixin color-button-transparent-hover {
+	background-color: var(--main-color);
+	color: #fff;
+}
+@mixin hover-link {
+	transform: scale(1.2);
+}
+// CSS переменные 
+body {
+	--main-color: #fd5c5c;
+	--default-font: "GothamPro", sans-serif;
+	--text: #333;
+}
