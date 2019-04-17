@@ -22,8 +22,8 @@ This is HTML template on Flexbox using the initial OptimizedHTML template.
 
 <h2>Pattern Features:</h2>
 <ol>
-	<ul>No Bootstrap - is used CSS Flex Box</ul>
+	<ul>No Bootstrap - is used CSS <strong>Flex Box</strong></ul>
   <ul>SCSS</ul>
   <ul>No JS</ul>
-  <ul>OptimizedHTML as a start template</ul>
+  <ul><strong>OptimizedHTML</strong> as a start template</ul>
 </ol>
