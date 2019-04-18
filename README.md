@@ -1,4 +1,5 @@
-# Gangland-Construction-Theme
+# Construction-Company-Website Template
+![Theme](https://cdn.freebiesupply.com/images/large/1x/construction-company-website-template-u96.jpg)
 This is HTML template on Flexbox using the initial OptimizedHTML template.
 
 <h2>How to use:</h2>
@@ -10,7 +11,6 @@ This is HTML template on Flexbox using the initial OptimizedHTML template.
 
 <h2>Template structure:</h2>
 <ol>
-  <ul>psd - PSD layout</ul>
 	<ul>app - work folder</ul>
 	<ul>app/css - end styles</ul>
 	<ul>app/scss - preprocessor files</ul>
@@ -27,3 +27,6 @@ This is HTML template on Flexbox using the initial OptimizedHTML template.
   <ul>No JS</ul>
   <ul><strong>OptimizedHTML</strong> as a start template</ul>
 </ol>
+
+<h2>Download PSD</h2>
+[Construction Company Website Template](https://freebiesupply.com/free-psd-websites/construction-company-website-template-psd-freebie/)
