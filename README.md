@@ -1,6 +1,7 @@
 # Construction-Company-Website Template
 ![Theme](https://cdn.freebiesupply.com/images/large/1x/construction-company-website-template-u96.jpg)
-This is HTML template on Flexbox using the initial OptimizedHTML template.
+
+<h4>This is HTML template on Flexbox using the initial OptimizedHTML template.</h4>
 
 <h2>How to use:</h2>
 <ol>
@@ -29,4 +30,4 @@ This is HTML template on Flexbox using the initial OptimizedHTML template.
 </ol>
 
 <h2>Download PSD</h2>
-[Construction Company Website Template](https://freebiesupply.com/free-psd-websites/construction-company-website-template-psd-freebie/)
+[Construction Company Website Template] (https://freebiesupply.com/free-psd-websites/construction-company-website-template-psd-freebie/)
