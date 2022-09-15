@@ -1,7 +1,7 @@
 # Construction-Company-Website Template
 ![Theme](https://cdn.freebiesupply.com/images/large/1x/construction-company-website-template-u96.jpg)
 
-<h4>This is HTML template on Flexbox using the initial OptimizedHTML template.</h4>
+<h4>This is HTML template in Flexbox using OptimizedHTML template.</h4>
 
 <h2>How to use:</h2>
 <ol>
@@ -23,10 +23,10 @@
 
 <h2>Pattern Features:</h2>
 <ol>
-	<ul>No Bootstrap - is used CSS <strong>Flex Box</strong></ul>
+	<ul>No Bootstrap - CSS <strong>Flex Box</strong></ul>
   <ul>SCSS</ul>
   <ul>No JS</ul>
-  <ul><strong>OptimizedHTML</strong> as a start template</ul>
+  <ul><strong>OptimizedHTML</strong> - start template</ul>
 </ol>
 
 <h2>Download PSD</h2>
